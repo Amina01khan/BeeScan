@@ -1,0 +1,4 @@
+0 Healthy Honey Bee or Healthy Beehive
+1 Deformed Wing Virus (DWV)
+2 Varroa Mite Infestation
+3 Chalkbrood Disease
