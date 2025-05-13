@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.12.0
+pandas
+plotly
+Pillow
+opencv-python
+numpy
+
